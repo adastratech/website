@@ -1,0 +1,4 @@
+baseURL = "https://adastratech.org/"
+languageCode = "en-us"
+title = "Ad Astra Tech Alliance"
+theme = "airspace-hugo"
